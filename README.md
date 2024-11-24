@@ -70,7 +70,6 @@ The dataset used is the **[Credit Card Fraud Detection Dataset](https://www.kagg
 
 ## **Results**
 - The trained model achieves high precision and recall for fraud detection.
-- ROC-AUC Score: **[Add your ROC-AUC score here]**
 
 ---
 
